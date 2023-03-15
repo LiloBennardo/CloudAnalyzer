@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'CloudAnalyzerWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABA87B0910C5467EB20D4A2DA4D26149 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C258772FC5D842EAA27005DED29C8DC9 }}
           package: .
